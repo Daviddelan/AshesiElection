@@ -12,7 +12,7 @@
 }
 
 .winner_info{
-    background-color: #231e39;
+    background-color: #420c09;
     padding: 1rem;
     border-radius: 0.2rem;
     display: grid;
@@ -21,11 +21,11 @@
     align-items: center;
 }
 .winner_message{
-    background-color: #231e39;
+    background-color: #420c09;
     padding: 2rem;
     border-radius: 0.2rem;
     font-size: 1.5rem;
-    color:#b3b8cd;
+    color:#ffffff;
     line-height:0;
     position: relative;
 }
@@ -48,10 +48,10 @@
 }
 
 .candidate_list samp{
-    background-color: #231E39;
+    background-color: #420c09;
     padding: 0.5rem;
     margin-left: 0.5rem;
-    color:#b3b8cd;
+    color:#ffffff;
     border-radius: 0.2rem;
 
 }

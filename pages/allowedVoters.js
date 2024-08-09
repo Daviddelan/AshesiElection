@@ -51,7 +51,7 @@ const allowedVoters = () => {
           <div className={Style.sideInfo}>
             <div className={Style.sideInfo_box}>
               <h4>Create candidate For the Voting Process</h4>
-              <p>JES Developers is a community of developers who are passionate about building Ethereum ecosystems.</p>
+              <p style={{color:"#ffffff"}}>JES Developers is a community of developers who are passionate about building Ethereum ecosystems.</p>
               <p className={Style.sideInfo_para}>Contract Candidate</p>
             </div>
             <div className={Style.card}>
