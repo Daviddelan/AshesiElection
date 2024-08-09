@@ -22,7 +22,7 @@ const NavigationBar = () => {
     };
     return (
         <div className={Style.navbar}>
-            {error === " " ? (
+            {error === "" ? (
                 ""
             ) : (
                 <div className={Style.message__box}>
