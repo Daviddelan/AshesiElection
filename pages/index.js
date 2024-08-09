@@ -24,6 +24,9 @@ const index = () => {
     getAllVoterData();
   }, []);  // Only run once on component mount
 
+  console.log("Candidate Length:", candidateLength);
+  console.log("Voter Length:", voterLength);
+
   return (
     <div className={Style.home}>
       {currentAccount && (
